@@ -1,0 +1,7 @@
+name=Tomb of the brain
+author=Miroslaw Zielinski
+description=Logic game.
+bundleID=com.zielok.totb
+version=1.0
+buildNumber=100
+imagePath=SystemAssets
