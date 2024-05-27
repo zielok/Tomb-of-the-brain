@@ -1,0 +1,147 @@
+
+.nova/Tasks/Playdate Simulator.json
+add/cyfry.aseprite
+add/game.aseprite
+add/itch/cover.aseprite
+add/itch/cover.png
+add/klocki.aseprite
+add/over.aseprite
+add/player.aseprite
+add/prelevel.aseprite
+add/sfx/click.wav
+add/sfx/levelbad.wav
+add/sfx/levelcomplete.wav
+add/sfx/move1.wav
+add/sfx/move2.wav
+add/sfx/move3.wav
+add/sfx/move4.wav
+add/sfx/prelevel.wav
+add/sfx/teleport.wav
+add/title.aseprite
+build.pdx/img/complete.pdi
+build.pdx/img/cyfry/cyfry.pft
+build.pdx/img/game.pdi
+build.pdx/img/klocki.pdt
+build.pdx/img/logo.pdi
+build.pdx/img/over.pdi
+build.pdx/img/playbutton.pdi
+build.pdx/img/player.pdt
+build.pdx/img/prelevel.pdi
+build.pdx/img/reset.pdi
+build.pdx/img/title.pdi
+build.pdx/main.pdz
+build.pdx/pdxinfo
+build.pdx/sfx/click.pda
+build.pdx/sfx/levelbad.pda
+build.pdx/sfx/levelcomplete.pda
+build.pdx/sfx/levelcomplete2.pda
+build.pdx/sfx/levelcomplete3.pda
+build.pdx/sfx/levelcomplete4.pda
+build.pdx/sfx/move1.pda
+build.pdx/sfx/move2.pda
+build.pdx/sfx/move3.pda
+build.pdx/sfx/move4.pda
+build.pdx/sfx/prelevel.pda
+build.pdx/sfx/reset.pda
+build.pdx/sfx/teleport.pda
+build.pdx/SystemAssets/card-highlighted/1.pdi
+build.pdx/SystemAssets/card-highlighted/2.pdi
+build.pdx/SystemAssets/card-highlighted/3.pdi
+build.pdx/SystemAssets/card-highlighted/4.pdi
+build.pdx/SystemAssets/card-highlighted/animation.txt
+build.pdx/SystemAssets/card-pressed.pdi
+build.pdx/SystemAssets/card.pdi
+build.pdx/SystemAssets/launchImages/1.pdi
+build.pdx/SystemAssets/launchImages/2.pdi
+build.pdx/SystemAssets/launchImages/3.pdi
+build.pdx/SystemAssets/launchImages/4.pdi
+build.pdx/SystemAssets/launchImages/5.pdi
+build.pdx/SystemAssets/launchImages/6.pdi
+build.pdx/SystemAssets/launchImages/7.pdi
+build.pdx/SystemAssets/launchImages/8.pdi
+build.pdx/SystemAssets/launchImages/9.pdi
+Tomb of the brain.pdx/img/complete.pdi
+Tomb of the brain.pdx/img/cyfry/cyfry.pft
+Tomb of the brain.pdx/img/game.pdi
+Tomb of the brain.pdx/img/klocki.pdt
+Tomb of the brain.pdx/img/logo.pdi
+Tomb of the brain.pdx/img/over.pdi
+Tomb of the brain.pdx/img/playbutton.pdi
+Tomb of the brain.pdx/img/player.pdt
+Tomb of the brain.pdx/img/prelevel.pdi
+Tomb of the brain.pdx/img/reset.pdi
+Tomb of the brain.pdx/img/title.pdi
+Tomb of the brain.pdx/main.pdz
+Tomb of the brain.pdx/pdxinfo
+Tomb of the brain.pdx/sfx/click.pda
+Tomb of the brain.pdx/sfx/levelbad.pda
+Tomb of the brain.pdx/sfx/levelcomplete.pda
+Tomb of the brain.pdx/sfx/levelcomplete2.pda
+Tomb of the brain.pdx/sfx/levelcomplete3.pda
+Tomb of the brain.pdx/sfx/levelcomplete4.pda
+Tomb of the brain.pdx/sfx/move1.pda
+Tomb of the brain.pdx/sfx/move2.pda
+Tomb of the brain.pdx/sfx/move3.pda
+Tomb of the brain.pdx/sfx/move4.pda
+Tomb of the brain.pdx/sfx/prelevel.pda
+Tomb of the brain.pdx/sfx/reset.pda
+Tomb of the brain.pdx/sfx/teleport.pda
+Tomb of the brain.pdx/SystemAssets/card-highlighted/1.pdi
+Tomb of the brain.pdx/SystemAssets/card-highlighted/2.pdi
+Tomb of the brain.pdx/SystemAssets/card-highlighted/3.pdi
+Tomb of the brain.pdx/SystemAssets/card-highlighted/4.pdi
+Tomb of the brain.pdx/SystemAssets/card-highlighted/animation.txt
+Tomb of the brain.pdx/SystemAssets/card-pressed.pdi
+Tomb of the brain.pdx/SystemAssets/card.pdi
+Tomb of the brain.pdx/SystemAssets/launchImages/1.pdi
+Tomb of the brain.pdx/SystemAssets/launchImages/2.pdi
+Tomb of the brain.pdx/SystemAssets/launchImages/3.pdi
+Tomb of the brain.pdx/SystemAssets/launchImages/4.pdi
+Tomb of the brain.pdx/SystemAssets/launchImages/5.pdi
+Tomb of the brain.pdx/SystemAssets/launchImages/6.pdi
+Tomb of the brain.pdx/SystemAssets/launchImages/7.pdi
+Tomb of the brain.pdx/SystemAssets/launchImages/8.pdi
+Tomb of the brain.pdx/SystemAssets/launchImages/9.pdi
+totb.pdx/img/complete.pdi
+totb.pdx/img/cyfry/cyfry.pft
+totb.pdx/img/game.pdi
+totb.pdx/img/klocki.pdt
+totb.pdx/img/logo.pdi
+totb.pdx/img/over.pdi
+totb.pdx/img/playbutton.pdi
+totb.pdx/img/player.pdt
+totb.pdx/img/prelevel.pdi
+totb.pdx/img/reset.pdi
+totb.pdx/img/title.pdi
+totb.pdx/main.pdz
+totb.pdx/pdxinfo
+totb.pdx/sfx/click.pda
+totb.pdx/sfx/levelbad.pda
+totb.pdx/sfx/levelcomplete.pda
+totb.pdx/sfx/levelcomplete2.pda
+totb.pdx/sfx/levelcomplete3.pda
+totb.pdx/sfx/levelcomplete4.pda
+totb.pdx/sfx/move1.pda
+totb.pdx/sfx/move2.pda
+totb.pdx/sfx/move3.pda
+totb.pdx/sfx/move4.pda
+totb.pdx/sfx/prelevel.pda
+totb.pdx/sfx/reset.pda
+totb.pdx/sfx/teleport.pda
+totb.pdx/SystemAssets/card-highlighted/1.pdi
+totb.pdx/SystemAssets/card-highlighted/2.pdi
+totb.pdx/SystemAssets/card-highlighted/3.pdi
+totb.pdx/SystemAssets/card-highlighted/4.pdi
+totb.pdx/SystemAssets/card-highlighted/animation.txt
+totb.pdx/SystemAssets/card-pressed.pdi
+totb.pdx/SystemAssets/card.pdi
+totb.pdx/SystemAssets/launchImages/1.pdi
+totb.pdx/SystemAssets/launchImages/2.pdi
+totb.pdx/SystemAssets/launchImages/3.pdi
+totb.pdx/SystemAssets/launchImages/4.pdi
+totb.pdx/SystemAssets/launchImages/5.pdi
+totb.pdx/SystemAssets/launchImages/6.pdi
+totb.pdx/SystemAssets/launchImages/7.pdi
+totb.pdx/SystemAssets/launchImages/8.pdi
+totb.pdx/SystemAssets/launchImages/9.pdi
+totb_source.txt
